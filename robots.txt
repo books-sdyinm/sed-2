@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://books-sdyinm.github.io/sed-2/sitemap.xml
